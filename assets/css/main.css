@@ -3164,6 +3164,13 @@
 			font-size: 0.9rem;
 			margin: 0 0 2rem 0;
 			padding: 0 1rem;
+			text-align: center; }
+
+		#footer .location {
+			color: #a3a3a3;
+			font-size: 0.5rem;
+			margin: 0 0 2rem 0;
+			padding: 0 1rem;
 			text-align: center;
 		}
 
