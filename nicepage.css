@@ -30181,12 +30181,14 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-text-1 {width: 631px; margin: -24px auto 8px} 
 @media (max-width: 1199px){ .u-footer .u-image-1 {width: 80px; height: 40px} }
 
-@media (max-width: 767px){ .u-footer .u-sheet-1 {min-height: 200px}
-.u-footer .u-image-1 {margin-left: 230px}
-.u-footer .u-social-icons-1 {margin-top: 20px; margin-right: auto}
+@media (max-width: 767px){ .u-footer .u-sheet-1 {min-height: 204px}
+.u-footer .u-image-1 {margin-top: 20px; margin-left: auto}
+.u-footer .u-social-icons-1 {margin-top: 38px; margin-right: auto; margin-left: 242px}
 .u-footer .u-text-1 {width: 540px; margin: 20px 0 0} }
-@media (max-width: 575px){ .u-footer .u-image-1 {margin-left: auto}
-.u-footer .u-text-1 {width: 340px} }
+@media (max-width: 575px){ .u-footer .u-sheet-1 {min-height: 241px}
+.u-footer .u-image-1 {margin-top: 16px}
+.u-footer .u-social-icons-1 {margin-top: 53px; margin-left: 142px}
+.u-footer .u-text-1 {width: 340px; margin-top: 16px; margin-bottom: 16px} }
 
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
